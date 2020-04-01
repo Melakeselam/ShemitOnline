@@ -8,7 +8,7 @@ public class MohamedController {
 	
   @RequestMapping("/mhussein")
   public String getMohamed() {
-	  String fullName="Mohamed Hussein Abdel Halim Mohamed";
+	  String fullName="Mohamed Hussein Abdel Halim Mohamed  Soliman";
 	  return fullName; 
   }
 }
