@@ -10,7 +10,7 @@ public class MikeController {
 	public String getMikeName()
 	{
 		
-		return "Welcome Mike"; 
+		return "Welcome Mike";   
 	}
 
 }
