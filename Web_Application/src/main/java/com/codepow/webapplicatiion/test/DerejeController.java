@@ -1,4 +1,4 @@
-package com.codepow.webapplicatiionTest;
+package com.codepow.webapplicatiion.test;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
