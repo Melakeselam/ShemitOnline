@@ -7,10 +7,10 @@ import javax.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller 
-@RequestMapping("/home")
+@RequestMapping("home")
 public class HomeController {
 
-	@RequestMapping (method=RequestMethod.GET)
+	@RequestMapping (method =  RequestMethod.GET)
 	  public String index() {
 		
 		  return "home/index";  
